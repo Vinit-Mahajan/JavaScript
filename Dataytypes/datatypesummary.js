@@ -21,10 +21,12 @@
         age: 22,
     }
 
-    const myfunc = function() {
+    const myfunc =  function() {
         console.log("Hello World");
         
     }
 
+    console.log(typeof(myfunc));
+    
 
 
